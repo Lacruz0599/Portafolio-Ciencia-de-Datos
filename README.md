@@ -1,11 +1,11 @@
-# Data Scientist Jr.
+# Científico de Datos Jr.
 
 #### Python | SQL | Pandas | NumPy | Scikit-Learn | Matplotlib |Regresión | Clasificación | Árboles de decisión | Métricas de evaluación | Power BI | Streamlit | FastAPI | Postman | Render | Jupyter Notebook | Visual Studio Code | GitHub | Entornos virtuales
 
-## Education
+## Educación
 - Ingeniería en Sistemas Computacionales | Universidad Kuepa (_Finaliza en 2026_)
-
-## Work Experience
+  
+## Experiencia Laboral
 **Encargado General | Hotel Periférico, Oaxaca de Juárez (_Mayo 2020 - Marzo 2025_)**
 - Diseñé y gestioné un sistema de registro de ocupación para analizar tendencias, identificar temporadas altas y ajustar estrategias operativas.
 - Incrementé ingresos mediante una estrategia de promoción basada en análisis del comportamiento del cliente.
@@ -13,7 +13,7 @@
 - Coordiné mantenimientos correctivos y preventivos, documentando incidencias para mejorar la eficiencia.
 - Lideré al equipo operativo, asignando tareas y administrando presupuesto e insumos.
 
-## Data Science Experience
+## Experiencia Técnica
 **Científico de Datos Jr. | Practicum - TripleTen (_Septiembre 2024 - Abril 2025_)**
 - Desarrollé modelos de clasificación y regresión aplicados a problemas de negocio reales en distintos sectores.
 - Analicé patrones de consumo y segmentación en la industria de videojuegos para optimizar decisiones de marketing.
@@ -22,7 +22,7 @@
 - Elaboré un sistema de scoring crediticio utilizando modelos clásicos y complejos con explicabilidad incorporada.
 - Presenté resultados con visualizaciones interactivas y comunicación clara para públicos técnicos y no técnicos.
 
-## Projects
+## Pryectos Destacados
 ### Predicción de abandono de clientes en telecomunicaciones
 [Repositorio de Github](https://github.com/Lacruz0599/churn-prediction)
 
@@ -45,7 +45,7 @@ Este proyecto consistió en un análisis exploratorio de datos de ventas de vide
 
 ---
 
-## Contact
+## Contacto
 - Email: cesareduardocruzcabrera@gmail.com  
 - LinkedIn: [linkedin.com/in/cesar-eduardo-cruz-cabrera](https://www.linkedin.com/in/cesar-eduardo-cruz-cabrera)  
 - GitHub: [github.com/Lacruz0599](https://github.com/Lacruz0599)  
