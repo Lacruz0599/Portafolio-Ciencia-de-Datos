@@ -31,7 +31,7 @@ Este proyecto de ciencia de datos se enfoca en predecir la pérdida de clientes 
 
 ![Churn App](assets/img/churn_app.png)
 
-### Scoring de riesgo crediticio
+### Segmentación de Clientes con Clustering RFM
 [Repositorio de Github](https://github.com/Lacruz0599/credit-default-scorecard)
 
 Este proyecto tiene como objetivo aplicar técnicas de aprendizaje no supervisado para segmentar clientes de un negocio de retail en línea, utilizando datos históricos de transacciones. A través del enfoque RFM (Recency, Frequency, Monetary), se analizó el comportamiento de compra de cada cliente en función de la fecha de su última compra, la frecuencia con la que realiza pedidos y el monto total que ha gastado. Esta segmentación permitió identificar patrones de comportamiento diferenciados entre grupos de clientes, lo que a su vez facilita la toma de decisiones estratégicas en áreas como marketing personalizado, fidelización y reactivación de usuarios. Al entender mejor las características y necesidades de cada segmento, la empresa puede diseñar campañas más efectivas y enfocadas, optimizando así los recursos y maximizando el valor de cada cliente.
@@ -41,7 +41,7 @@ Este proyecto tiene como objetivo aplicar técnicas de aprendizaje no supervisad
 [Repositorio de Github](https://github.com/Lacruz0599/creando-perfiles-de-ventas-para-regiones-mundiales)
 
 Este proyecto consistió en un análisis exploratorio de datos de ventas de videojuegos con el objetivo de identificar las plataformas, géneros y clasificaciones (ratings) más rentables en distintas regiones del mundo. A partir del procesamiento y visualización de los datos, se analizaron patrones de consumo diferenciados en Norteamérica, Europa y Japón, lo que permitió construir perfiles de comportamiento según las preferencias regionales. Este enfoque no solo facilitó la detección de tendencias globales en la industria del videojuego, sino que también proporcionó información valiosa para la toma de decisiones estratégicas en áreas como marketing, desarrollo de productos y distribución internacional.
-![Game Sales EDA](assets/img/vg_sales_eda.png)
+![Game Sales EDA](assets/img/file_00000000b52061f7b5a889c5a629bf07.png)
 
 ---
 
