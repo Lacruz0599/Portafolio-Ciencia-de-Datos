@@ -22,7 +22,7 @@
 - Elaboré un sistema de scoring crediticio utilizando modelos clásicos y complejos con explicabilidad incorporada.
 - Presenté resultados con visualizaciones interactivas y comunicación clara para públicos técnicos y no técnicos.
 
-## Pryectos Destacados
+## Proyectos Destacados
 ### Predicción de abandono de clientes en telecomunicaciones
 [Repositorio de Github](https://github.com/Lacruz0599/prediccion-de-abandono-de-clientes-Telecom)
 
