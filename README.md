@@ -35,7 +35,7 @@ Este proyecto de ciencia de datos se enfoca en predecir la pérdida de clientes 
 [Repositorio de Github](https://github.com/Lacruz0599/credit-default-scorecard)
 
 Este proyecto tiene como objetivo aplicar técnicas de aprendizaje no supervisado para segmentar clientes de un negocio de retail en línea, utilizando datos históricos de transacciones. A través del enfoque RFM (Recency, Frequency, Monetary), se analizó el comportamiento de compra de cada cliente en función de la fecha de su última compra, la frecuencia con la que realiza pedidos y el monto total que ha gastado. Esta segmentación permitió identificar patrones de comportamiento diferenciados entre grupos de clientes, lo que a su vez facilita la toma de decisiones estratégicas en áreas como marketing personalizado, fidelización y reactivación de usuarios. Al entender mejor las características y necesidades de cada segmento, la empresa puede diseñar campañas más efectivas y enfocadas, optimizando así los recursos y maximizando el valor de cada cliente.
-![Credit Scoring](assets/img/credit_scoring.png)
+![Credit Scoring](assets/img/20250405_202407.jpg)
 
 ### Análisis exploratorio de ventas en videojuegos
 [Repositorio de Github](https://github.com/Lacruz0599/creando-perfiles-de-ventas-para-regiones-mundiales)
