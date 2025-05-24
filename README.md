@@ -29,7 +29,7 @@
 Este proyecto de ciencia de datos se enfoca en predecir la pérdida de clientes (churn) mediante la implementación de un modelo de machine learning entrenado con datos históricos de comportamiento de usuario. El modelo alcanzó un AUC-ROC de 0.934, lo que indica una alta capacidad para distinguir entre clientes que abandonan el servicio y los que permanecen. Además del análisis y entrenamiento del modelo, el proyecto incluye el desarrollo de una API REST con FastAPI, que permite realizar predicciones en tiempo real, y una interfaz web interactiva construida con Streamlit, diseñada para facilitar la interacción con el modelo por parte de usuarios no técnicos. Este enfoque integral permite integrar el modelo predictivo en entornos productivos, habilitando acciones preventivas y decisiones basadas en datos para reducir la tasa de abandono de clientes.
 
 
-![Churn App](assets/img/churn_app.png)
+![Churn App](assets/img/file_00000000b52061f7b5a889c5a629bf07(1).png)
 
 ### Segmentación de Clientes con Clustering RFM
 [Repositorio de Github](https://github.com/Lacruz0599/credit-default-scorecard)
