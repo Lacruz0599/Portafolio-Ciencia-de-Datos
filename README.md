@@ -3,7 +3,8 @@
 #### Python | SQL | Pandas | NumPy | Scikit-Learn | Matplotlib |Regresión | Clasificación | Árboles de decisión | Métricas de evaluación | Power BI | Streamlit | FastAPI | Postman | Render | Jupyter Notebook | Visual Studio Code | GitHub | Entornos virtuales
 
 ## Educación
-- Ingeniería en Sistemas Computacionales | Universidad Kuepa (_Finaliza en 2026_)
+- 
+  Ingeniería en Sistemas Computacionales | Universidad Kuepa (_Finaliza en 2026_)
   
 ## Experiencia Laboral
 **Encargado General | Hotel Periférico, Oaxaca de Juárez (_Mayo 2020 - Marzo 2025_)**
