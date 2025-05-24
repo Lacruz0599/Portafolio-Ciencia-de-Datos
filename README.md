@@ -24,7 +24,7 @@
 
 ## Pryectos Destacados
 ### Predicción de abandono de clientes en telecomunicaciones
-[Repositorio de Github](https://github.com/Lacruz0599/churn-prediction)
+[Repositorio de Github](https://github.com/Lacruz0599/prediccion-de-abandono-de-clientes-Telecom)
 
 Este proyecto de ciencia de datos se enfoca en predecir la pérdida de clientes (churn) mediante la implementación de un modelo de machine learning entrenado con datos históricos de comportamiento de usuario. El modelo alcanzó un AUC-ROC de 0.934, lo que indica una alta capacidad para distinguir entre clientes que abandonan el servicio y los que permanecen. Además del análisis y entrenamiento del modelo, el proyecto incluye el desarrollo de una API REST con FastAPI, que permite realizar predicciones en tiempo real, y una interfaz web interactiva construida con Streamlit, diseñada para facilitar la interacción con el modelo por parte de usuarios no técnicos. Este enfoque integral permite integrar el modelo predictivo en entornos productivos, habilitando acciones preventivas y decisiones basadas en datos para reducir la tasa de abandono de clientes.
 
@@ -38,7 +38,7 @@ Este proyecto tiene como objetivo aplicar técnicas de aprendizaje no supervisad
 ![Credit Scoring](assets/img/credit_scoring.png)
 
 ### Análisis exploratorio de ventas en videojuegos
-[Repositorio de Github](https://github.com/Lacruz0599/video-game-sales-analysis)
+[Repositorio de Github](https://github.com/Lacruz0599/creando-perfiles-de-ventas-para-regiones-mundiales)
 
 Este proyecto consistió en un análisis exploratorio de datos de ventas de videojuegos con el objetivo de identificar las plataformas, géneros y clasificaciones (ratings) más rentables en distintas regiones del mundo. A partir del procesamiento y visualización de los datos, se analizaron patrones de consumo diferenciados en Norteamérica, Europa y Japón, lo que permitió construir perfiles de comportamiento según las preferencias regionales. Este enfoque no solo facilitó la detección de tendencias globales en la industria del videojuego, sino que también proporcionó información valiosa para la toma de decisiones estratégicas en áreas como marketing, desarrollo de productos y distribución internacional.
 ![Game Sales EDA](assets/img/vg_sales_eda.png)
