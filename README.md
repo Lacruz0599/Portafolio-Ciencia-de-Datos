@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Hola, soy **César Eduardo Cruz Cabrera**, ingeniero en sistemas en formación mexicano, curioso por naturaleza y apasionado por el poder de los datos para transformar realidades.
+Hola, soy **Cesar Eduardo Cruz Cabrera**, ingeniero en sistemas en formación mexicano, curioso por naturaleza y apasionado por el poder de los datos para transformar realidades.
 
 Mi camino no ha sido lineal, pero sí profundamente intencional. Tras una pausa académica, tomé una decisión que marcaría un antes y un después en mi vida: volver a estudiar con una meta clara en mente. Me formé en ciencia de datos a través de un bootcamp intensivo donde desarrollé proyectos reales que desafiaron mis habilidades técnicas y mi pensamiento crítico. Fue allí donde confirmé que lo mío es el análisis, la estadística, el aprendizaje automático y, sobre todo, encontrar respuestas valiosas donde otros solo ven números.
 
