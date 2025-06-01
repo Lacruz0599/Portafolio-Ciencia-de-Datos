@@ -1,27 +1,18 @@
 # Científico de Datos Jr.
 
-#### Python | SQL | Pandas | NumPy | Scikit-Learn | Matplotlib |Regresión | Clasificación | Árboles de decisión | Métricas de evaluación | Power BI | Streamlit | FastAPI | Postman | Render | Jupyter Notebook | Visual Studio Code | GitHub | Entornos virtuales
+## Sobre mí
 
-## Educación
-- 
-  Ingeniería en Sistemas Computacionales | Universidad Kuepa (_Finaliza en 2026_)
-  
-## Experiencia Laboral
-**Encargado General | Hotel Periférico, Oaxaca de Juárez (_Mayo 2020 - Marzo 2025_)**
-- Diseñé y gestioné un sistema de registro de ocupación para analizar tendencias, identificar temporadas altas y ajustar estrategias operativas.
-- Incrementé ingresos mediante una estrategia de promoción basada en análisis del comportamiento del cliente.
-- Controlé el flujo de efectivo a través de conciliaciones diarias de ingresos y gastos.
-- Coordiné mantenimientos correctivos y preventivos, documentando incidencias para mejorar la eficiencia.
-- Lideré al equipo operativo, asignando tareas y administrando presupuesto e insumos.
+Hola, soy **César Eduardo Cruz Cabrera**, ingeniero en sistemas en formación mexicano, curioso por naturaleza y apasionado por el poder de los datos para transformar realidades.
 
-## Experiencia Técnica
-**Científico de Datos Jr. | Practicum - TripleTen (_Septiembre 2024 - Abril 2025_)**
-- Desarrollé modelos de clasificación y regresión aplicados a problemas de negocio reales en distintos sectores.
-- Analicé patrones de consumo y segmentación en la industria de videojuegos para optimizar decisiones de marketing.
-- Construí un modelo de predicción de churn con AUC de 0.93, desplegado en una API con FastAPI y una app interactiva en Streamlit.
-- Apliqué validación cruzada, regularización y análisis de importancia de variables para asegurar robustez del modelo.
-- Elaboré un sistema de scoring crediticio utilizando modelos clásicos y complejos con explicabilidad incorporada.
-- Presenté resultados con visualizaciones interactivas y comunicación clara para públicos técnicos y no técnicos.
+Mi camino no ha sido lineal, pero sí profundamente intencional. Tras una pausa académica, tomé una decisión que marcaría un antes y un después en mi vida: volver a estudiar con una meta clara en mente. Me formé en ciencia de datos a través de un bootcamp intensivo donde desarrollé proyectos reales que desafiaron mis habilidades técnicas y mi pensamiento crítico. Fue allí donde confirmé que lo mío es el análisis, la estadística, el aprendizaje automático y, sobre todo, encontrar respuestas valiosas donde otros solo ven números.
+
+Hoy, estoy cursando el último año de Ingeniería en Sistemas y me sigo preparando todos los días para convertirme en un **científico de datos altamente competente**, un sector que me inspira por su complejidad, impacto social y necesidad constante de innovación basada en datos.
+
+Me gusta pensar que no solo resuelvo problemas, sino que los anticipo. Soy perseverante, metódico, autodidacta, y me involucro con responsabilidad y enfoque en cada reto que asumo. Domino herramientas como **Python, Pandas, Scikit-learn, Matplotlib, SQL**, y tengo conocimientos en **despliegue básico, APIs**, y **deep learning**.
+
+Si estás buscando a alguien con una visión clara, que combine habilidades técnicas con pensamiento estratégico y una profunda motivación por aprender, estoy listo para formar parte de tu equipo o colaborar en tu próximo proyecto.
+
+**Gracias por estar aquí. Te invito a conocer mis proyectos.**
 
 ## Proyectos Destacados
 
